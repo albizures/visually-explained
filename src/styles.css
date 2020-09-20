@@ -1,0 +1,8 @@
+body {
+	margin: 0;
+	font-size: 0;
+}
+
+canvas {
+	image-rendering: pixelated;
+}
